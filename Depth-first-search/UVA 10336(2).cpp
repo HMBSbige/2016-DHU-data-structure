@@ -1,4 +1,4 @@
-author£ºShijie
+authorÂ£:Shijie
 #include <iostream>
 
 using namespace std;
