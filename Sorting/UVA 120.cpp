@@ -4,7 +4,7 @@
 #include<sstream>
 #include<algorithm>
 using namespace std;
-//////////////////
+///////////////////
 int main(){
     vector<int> v;
     string line;
