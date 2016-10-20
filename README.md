@@ -3,4 +3,4 @@
 
 收集答案，便于复习
 
-![](http://github-10067061.cos.myqcloud.com/huaji.jpg)
+![](http://github-10067061.file.cloud.com/huaji.jpg)
