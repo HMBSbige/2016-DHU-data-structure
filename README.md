@@ -28,7 +28,7 @@
 * [H - UVa 10327](https://github.com/HMBSbige/2016-DHU-data-structure/blob/master/Sorting/UVa%2010327.cpp)
 
 ### [Map](https://github.com/HMBSbige/2016-DHU-data-structure/tree/master/Map)
-* [A -POJ 1840](https://github.com/HMBSbige/2016-DHU-data-structure/blob/master/Map/POJ%201840.cpp)
+* [A - POJ 1840](https://github.com/HMBSbige/2016-DHU-data-structure/blob/master/Map/POJ%201840.cpp)
 * [B -]()
 * [C -]()
 * [D -]()
