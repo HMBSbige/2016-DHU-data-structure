@@ -80,7 +80,7 @@
 ### [Segment Tree](https://github.com/HMBSbige/2016-DHU-data-structure/tree/master/Segment-Tree)
 * [A - POJ 2352](https://github.com/HMBSbige/2016-DHU-data-structure/blob/master/Segment-Tree/POJ%202352.cpp)
 * [B - POJ 2299](https://github.com/HMBSbige/2016-DHU-data-structure/blob/master/Segment-Tree/POJ%202299.cpp)
-* [C -]()
+* [C - POJ 3468](https://github.com/HMBSbige/2016-DHU-data-structure/blob/master/Segment-Tree/POJ%203468.cpp)
 * [D -]()
 * [E -]()
 
