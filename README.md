@@ -12,6 +12,10 @@
 
 * [UVa](https://uva.onlinejudge.org/)
 
+* [POJ](http://poj.org/problemlist)
+
+* [HDU](http://acm.hdu.edu.cn/)
+
 * [Google 翻译](https://translate.google.com/)
 
 * [Google](https://www.google.com/)
@@ -40,3 +44,56 @@
 * [D -]()
 * [E -]()
 * [F -]()
+
+### [Depth first search](https://github.com/HMBSbige/2016-DHU-data-structure/tree/master/Depth-first-search)
+* [A -]()
+* [B -]()
+* [C -]()
+* [D -]()
+* [E -]()
+* [F -]()
+* [G -]()
+* [H -]()
+
+### [Queues & Priority Queues](https://github.com/HMBSbige/2016-DHU-data-structure/tree/master/Queues-Priority-Queues)
+* [A -]()
+* [B -]()
+* [C -]()
+* [D -]()
+* [E -]()
+
+### [Breadth First Search](https://github.com/HMBSbige/2016-DHU-data-structure/tree/master/Breadth-First-Search)
+* [A -]()
+* [B -]()
+* [C -]()
+* [D -]()
+* [E -]()
+* [F -]()
+
+### [Tree](https://github.com/HMBSbige/2016-DHU-data-structure/tree/master/Tree)
+* [A - UVa 107](https://github.com/HMBSbige/2016-DHU-data-structure/blob/master/Tree/UVa%20%20107.cpp)
+* [B -]()
+* [C -]()
+* [D -]()
+* [E -]()
+
+### [Segment Tree](https://github.com/HMBSbige/2016-DHU-data-structure/tree/master/Segment-Tree)
+* [A - POJ 2352](https://github.com/HMBSbige/2016-DHU-data-structure/blob/master/Segment-Tree/POJ%202352.cpp)
+* [B -]()
+* [C -]()
+* [D -]()
+* [E -]()
+
+### [Shortest-Path](https://github.com/HMBSbige/2016-DHU-data-structure/tree/master/Shortest-Path)
+* [A -]()
+* [B -]()
+* [C -]()
+* [D -]()
+* [E -]()
+
+### [Linked-List](https://github.com/HMBSbige/2016-DHU-data-structure/tree/master/Linked-List)
+* [A -]()
+* [B -]()
+* [C -]()
+* [D -]()
+* [E -]()
