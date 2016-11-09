@@ -20,7 +20,7 @@
 
 * [Google](https://www.google.com/)
 
-##快速查找
+##目录
 ### [Sorting](https://github.com/HMBSbige/2016-DHU-data-structure/tree/master/Sorting)
 * [A - UVa 120](https://github.com/HMBSbige/2016-DHU-data-structure/blob/master/Sorting/UVA%20120.cpp)
 * [B - UVa 146](https://github.com/HMBSbige/2016-DHU-data-structure/blob/master/Sorting/UVa%20146.cpp)
@@ -84,22 +84,28 @@
 * [D -]()
 * [E - HDU 4417](https://github.com/HMBSbige/2016-DHU-data-structure/blob/master/Segment-Tree/HDU%204417.cpp)
 
-### [Shortest-Path](https://github.com/HMBSbige/2016-DHU-data-structure/tree/master/Shortest-Path)
+### [Shortest Path](https://github.com/HMBSbige/2016-DHU-data-structure/tree/master/Shortest-Path)
 * [A -]()
 * [B -]()
 * [C -]()
 * [D -]()
 * [E -]()
 
-### [Linked-List](https://github.com/HMBSbige/2016-DHU-data-structure/tree/master/Linked-List)
+### [Linked List](https://github.com/HMBSbige/2016-DHU-data-structure/tree/master/Linked-List)
 * [A -]()
 * [B -]()
 * [C -]()
 * [D -]()
 * [E -]()
 
-### [Union-Find](https://github.com/HMBSbige/2016-DHU-data-structure/tree/master/Union-Find)
+### [Union Find Sets](https://github.com/HMBSbige/2016-DHU-data-structure/tree/master/Union-Find)
 * [A - UVa 10608](https://github.com/HMBSbige/2016-DHU-data-structure/blob/master/Union-Find/UVa%2010608.cpp)
+* [B -]()
+* [C -]()
+* [D -]()
+
+### [Topological Sorting](https://github.com/HMBSbige/2016-DHU-data-structure/tree/master/Topological-Sorting)
+* [A -]()
 * [B -]()
 * [C -]()
 * [D -]()
