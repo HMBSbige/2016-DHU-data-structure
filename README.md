@@ -100,7 +100,7 @@
 
 ### [Union Find Sets](https://github.com/HMBSbige/2016-DHU-data-structure/tree/master/Union-Find)
 * [A - UVa 10608](https://github.com/HMBSbige/2016-DHU-data-structure/blob/master/Union-Find/UVa%2010608.cpp)
-* [B -]()
+* [B - UVa 459](https://github.com/HMBSbige/2016-DHU-data-structure/blob/master/Union-Find/UVa%20459.cpp)
 * [C -]()
 * [D -]()
 
