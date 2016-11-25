@@ -121,3 +121,10 @@
 * [B -]()
 * [C -]()
 * [D -]()
+
+### [Hash](https://github.com/HMBSbige/2016-DHU-data-structure/tree/master/Hash)
+* [A -]()
+* [B -]()
+* [C -]()
+* [D -]()
+
