@@ -128,3 +128,8 @@
 * [C -]()
 * [D -]()
 
+### [KMP](https://github.com/HMBSbige/2016-DHU-data-structure/tree/master/KMP)
+* [A -]()
+* [B -]()
+* [C -]()
+* [D -]()
