@@ -129,7 +129,12 @@
 * [D -]()
 
 ### [KMP](https://github.com/HMBSbige/2016-DHU-data-structure/tree/master/KMP)
-* [A -]()
+* [A - HDU 1711](https://github.com/HMBSbige/2016-DHU-data-structure/blob/master/KMP/HDU%201711.cpp)
 * [B -]()
 * [C -]()
 * [D -]()
+
+### [Huffman Coding](https://github.com/HMBSbige/2016-DHU-data-structure/tree/master/Huffman-Coding)
+* [A -]()
+* [B -]()
+* [C -]()
