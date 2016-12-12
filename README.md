@@ -36,8 +36,8 @@
 ### [Map](https://github.com/HMBSbige/2016-DHU-data-structure/tree/master/Map)
 * [A - POJ 1840](https://github.com/HMBSbige/2016-DHU-data-structure/blob/master/Map/POJ%201840.cpp)
 * [B - POJ 2153](https://github.com/HMBSbige/2016-DHU-data-structure/blob/master/Map/POJ%202153.cpp)
-* [C - POJ 3481]()
-* [D - HDU 4287]()
+* [C - POJ 3481](https://github.com/HMBSbige/2016-DHU-data-structure/blob/master/Map/POJ%203481.cpp)
+* [D - HDU 4287](https://github.com/HMBSbige/2016-DHU-data-structure/blob/master/Map/HDU%204287.cpp)
 
 ### [Binary Search](https://github.com/HMBSbige/2016-DHU-data-structure/tree/master/Binary-Search)
 * [A - UVa 10077]()
