@@ -1,93 +1,57 @@
-/*
-HDU4287 Intelligent IME
-Coded by Guojin Zhu
-Run time 265MS
-AC on September 10, 2012
---------------
-INPUT
-1
-3 5
-46
-64448
-74
-go
-in
-night
-might
-gn
----------------
-OUTPUT
-3
-2
-0
-*/
-#include<iostream>
-#include<cstdio>
-#include<vector>
-#include<string>
-#include<map>
+#include <iostream>
+#include <cstdio>
+#include <map>
+#include <vector>
+#include <string>
+#include <cstring>
 using namespace std;
-///////////////////
-const string digital = "22233344455566677778889999";
-class IntelligentIME{
-private:
-    vector<string> vecNumSeq;
-    vector<string> vecWords;
-    map<string, int> mapWords;
-    string toDigital(string w);
-public:
-    void initial();
-    void readCase();
-    void computing();
-    void outResult();
-};
-void IntelligentIME::initial(){
-    vecNumSeq.clear();
-    vecWords.clear();
-    mapWords.clear();
+
+char ch[26] = { '2', '2', '2', '3', '3', '3', '4', '4', '4',
+'5', '5', '5', '6', '6', '6', '7', '7', '7', '7', '8', '8', '8',
+'9', '9', '9', '9' };
+
+template <class T> void vecClear(vector<T> vec){
+	vector<T>().swap(vec);
 }
-void IntelligentIME::readCase(){
-    int n, m;
-    scanf("%d%d", &n, &m);
-    char s[10];
-    string str;
-    while(n--){
-        scanf("%s", s);
-        str = s;
-        vecNumSeq.push_back(str);
-    }
-    while(m--){
-        scanf("%s", s);
-        str = s;
-        vecWords.push_back(str);
-    }
+string StoN(string s) {
+	size_t l = s.length();
+	string ans="";
+	for (int i = 0; i < l; ++i) {
+		ans += ch[s[i] - 'a'];
+	}
+	return ans;
 }
-string IntelligentIME::toDigital(string w){
-    for(int i = 0; i < w.length(); i++){
-        w[i] = digital[w[i] - 'a'];
-    }
-    return w;
-}
-void IntelligentIME::computing(){
-    for(int i = 0; i < vecWords.size(); i++){
-        mapWords[toDigital(vecWords[i])]++;
-    }
-}
-void IntelligentIME::outResult(){
-    for(int i = 0; i < vecNumSeq.size(); i++){
-        printf("%d\n", mapWords[vecNumSeq[i]]);
-    }
-}
-/////////////////////
-int main(){
-    int t;
-    IntelligentIME ii;
-    cin >> t;
-    while(t--){
-        ii.initial();
-        ii.readCase();
-        ii.computing();
-        ii.outResult();
-    }
-    return 0;
+int main()
+{
+	int t,n,m;
+	string S;
+	map<string, int> _map;
+	map<string, int>::iterator it;
+	vector<string> list;
+
+	cin >> t;
+	while (t--) {
+		_map.clear();
+		vecClear(list);
+
+		scanf("%d%d", &n, &m);
+		list.resize(n);
+		for (int i = 0; i < n; ++i){
+			cin >> list[i];
+			_map[list[i]] = 0;
+		}
+		for (int i = 0; i < m; ++i) {
+			cin >> S;
+			S=StoN(S);
+			it = _map.find(S);
+			if (it != _map.end())
+				++it->second;
+		}
+		//output
+		for (int i = 0; i < n; ++i) {
+			cout << _map[list[i]] << endl;
+		}
+	}
+	//system("pause");
+	return 0;
 }
