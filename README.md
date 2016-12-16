@@ -2,7 +2,7 @@
 
 ### 很惭愧，就做了一点微小的工作
 
-![](http://github-10067061.file.myqcloud.com/huaji.jpg)
+![](http://pic.cdn.bige0.com/huaji.jpg)
 
 ##参考资料：
 
