@@ -2,7 +2,7 @@
 
 ### 很惭愧，就做了一点微小的工作
 
-![](http://pic.cdn.bige0.com/huaji.jpg)
+![](http://pic-1.bigecdn.cn/huaji.jpg)
 
 ##参考资料：
 
