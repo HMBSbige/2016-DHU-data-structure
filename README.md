@@ -4,11 +4,15 @@
 
 ![](http://pic-1.bigecdn.cn/huaji.jpg)
 
-##参考资料：
+## 参考资料：
 
 * [DHUOJ](http://acm.dhu.edu.cn/)
 
 * [C++ reference](http://www.cplusplus.com/reference/)
+
+* [C++ 参考手册](http://zh.cppreference.com/)
+
+* [Virtual Judge](https://cn.vjudge.net/)
 
 * [UVa](https://uva.onlinejudge.org/)
 
@@ -22,7 +26,7 @@
 
 * [Google](https://www.google.com/)
 
-##目录
+## 目录
 ### [Sorting](https://github.com/HMBSbige/2016-DHU-data-structure/tree/master/Sorting)
 * [A - UVa 120](https://github.com/HMBSbige/2016-DHU-data-structure/blob/master/Sorting/UVA%20120.cpp)
 * [B - UVa 146](https://github.com/HMBSbige/2016-DHU-data-structure/blob/master/Sorting/UVa%20146.cpp)
@@ -40,7 +44,7 @@
 * [D - HDU 4287](https://github.com/HMBSbige/2016-DHU-data-structure/blob/master/Map/HDU%204287.cpp)
 
 ### [Binary Search](https://github.com/HMBSbige/2016-DHU-data-structure/tree/master/Binary-Search)
-* [A - UVa 10077]()
+* [A - UVa 10077](https://raw.githubusercontent.com/HMBSbige/2016-DHU-data-structure/master/Binary-Search/UVA%2010077.cpp)
 * [B - UVa 10706]()
 * [C - UVa 10539]()
 * [D - HDU 4282]()
