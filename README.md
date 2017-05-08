@@ -45,7 +45,7 @@
 
 ### [Binary Search](https://github.com/HMBSbige/2016-DHU-data-structure/tree/master/Binary-Search)
 * [A - UVa 10077](https://raw.githubusercontent.com/HMBSbige/2016-DHU-data-structure/master/Binary-Search/UVA%2010077.cpp)
-* [B - UVa 10706]()
+* [B - UVa 10706](https://raw.githubusercontent.com/HMBSbige/2016-DHU-data-structure/master/Binary-Search/UVA%2010706.cpp)
 * [C - UVa 10539]()
 * [D - HDU 4282]()
 * [E - UVA 11413]()
