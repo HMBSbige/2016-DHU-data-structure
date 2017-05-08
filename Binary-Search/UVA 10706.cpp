@@ -13,7 +13,7 @@ int solve(int n)
 		n -= l;
 	for (l = j = 1; n>l; l = weishu(++j))
 		n -= l;
-	j /= 1<<l - n;//j=答案所在的数字，n=答案在该数字第几位，l=j的位数
+	j /= static_cast<int>(pow(10,l - n));//j=答案所在的数字，n=答案在该数字第几位，l=j的位数
 	return j % 10;
 }
 int main(int argc, string argv[])
@@ -27,6 +27,6 @@ int main(int argc, string argv[])
 		cin >> n;
 		cout << solve(n) << endl;
 	}
-	//system("pause");
+	system("pause");
 	return 0;
 }
