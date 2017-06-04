@@ -12,7 +12,7 @@ typedef long long ll;
 vector<ull> AlmostPrimeNumbers;
 vector<bool> isPrime;
 vector<ull> Primes;
-void MakePrime(ull N)//Ä¤¸Ä¿ìËÙÏßĞÔÉ¸·¨
+void MakePrime(ull N)//è†œæ”¹å¿«é€Ÿçº¿æ€§ç­›æ³•
 {
 	ull m = N;
 	--N;
@@ -69,7 +69,7 @@ ll binary_search(std::vector<ull> array, ull value)
 		else
 			return middle;
 	}
-	return left-1;//Ã»ÕÒµ½·µ»ØĞ¡ÓÚvalue×î½üµÄÎ»ÖÃ
+	return left-1;//æ²¡æ‰¾åˆ°è¿”å›å°äºvalueæœ€è¿‘çš„ä½ç½®
 }
 int main()
 {
